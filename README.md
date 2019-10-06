@@ -8,7 +8,7 @@ Prettier - code formatter
 
 **Local Setup Steps:**
 
-- clone repository using `git clone https://github.com/BhagyashriK/cryptoserver`
+- clone repository using `git clone git@github.com:BhagyashriK/cryptoserver.git`
 - run `yarn install` to install server dependencies
 - run `yarn start` to start API server
 
